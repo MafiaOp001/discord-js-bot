@@ -19,7 +19,7 @@ module.exports = class Eval extends Command {
         options: [
           {
             name: "input",
-            description: "content to eval",
+            description: "content to eval!",
             type: "STRING",
             required: true,
           },
