@@ -1,7 +1,7 @@
 module.exports = {
   OWNER_IDS: [809006947537125376, 924152883270799440, 923523988402090006], // Bot owner ID's
   PREFIX: "$", // Default prefix for the bot
-  SUPPORT_SERVER: "", // Your bot support server
+  SUPPORT_SERVER: "https://discord.gg/agentsop", // Your bot support server
   DASHBOARD: {
     enabled: false, // enable or disable dashboard
     baseURL: "http://localhost:8080", // base url
